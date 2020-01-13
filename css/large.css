@@ -1,0 +1,49 @@
+/* // Large devices (desktops, 992px and up)
+    @media (min-width: 992px) { ... } */
+
+.header-img {
+    background-image: url('../img/wolf/wolf-1341881_1920.jpg');
+    background-size: cover;
+}
+
+@media (min-width: 1040px) {
+    .header-text h1 {
+        font-size: 55px;
+    }
+
+
+    .header-text p {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 1500px) {
+    .header-text h1 {
+        font-size: 58px;
+    }
+
+
+    .header-text p {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+}
+
+/* MAIN */
+
+.first-product {
+    background-image: url('../img/children/children-593313_1920.jpg');
+}
+
+.second-product {
+    background-image: url('../img/keyboard/keyboard-70506_1920.jpg');
+}
+
+.third-product {
+    background-image: url('../img/apple/apple-1851464_1920.jpg');
+}
+
+.fourth-product {
+    background-image: url('../img/laptop/laptop-1483974_1920.jpg');
+}

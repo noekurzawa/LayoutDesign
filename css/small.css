@@ -1,0 +1,23 @@
+/* // Small devices (landscape phones, 576px and up)
+    @media (min-width: 576px) { ... }
+     */
+
+
+     .header-img {
+        background-image: url('../img/wolf/wolf-1341881_1280.jpg');}
+
+        .first-product {
+            background-image: url('../img/children/children-593313_1280.jpg');
+        }
+        
+        .second-product {
+            background-image: url('../img/keyboard/keyboard-70506_1280.jpg');
+        }
+        
+        .third-product {
+            background-image: url('../img/apple/apple-1851464_1280.jpg');
+        }
+        
+        .fourth-product {
+            background-image: url('../img/laptop/laptop-1483974_1280.jpg');
+        }
