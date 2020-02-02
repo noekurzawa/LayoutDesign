@@ -1,5 +1,4 @@
 /* @media (min-width: 768px) { ... } */
-
 .nav-mobile {
     display: none;
 }
@@ -27,12 +26,7 @@
     color: white;
 }
 
-/* .main-product {
-    width: 48%;
-} */
-
 /* HEADER */
-
 .header-text h1 {
     font-size: 46px;
 }
@@ -43,14 +37,11 @@
 }
 
 /* MAIN */
-
 section {
-    margin: 110px 0;
     text-align: center;
 }
 
 /* FOOTER */
-
 footer {
     font-size: 14px;
 }
