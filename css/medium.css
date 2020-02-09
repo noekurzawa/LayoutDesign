@@ -1,4 +1,3 @@
-/* @media (min-width: 768px) { ... } */
 .nav-mobile {
     display: none;
 }
@@ -26,7 +25,11 @@
     color: white;
 }
 
-/* HEADER */
+.header-img {
+    background-image: url('../img/wolf/wolf-1341881_1920.jpg');
+}
+
+
 .header-text h1 {
     font-size: 46px;
 }
@@ -36,12 +39,10 @@
 
 }
 
-/* MAIN */
 section {
     text-align: center;
 }
 
-/* FOOTER */
 footer {
     font-size: 14px;
 }
