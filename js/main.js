@@ -22,4 +22,5 @@ function hideMenu() {
     menu.style.position = "fixed";
   }
 }
+
 li.addEventListener("click", hideMenu);
